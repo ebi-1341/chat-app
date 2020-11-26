@@ -125,10 +125,16 @@
 }
 
 .form{
+  display: flex;
+  width: 100%;
+}
+
+.form-input{
   background-color: white;
   width: 100%;
   display: flex;
 }
+
 
 .form-image{
   font-size: 12px;
